@@ -1,0 +1,5 @@
+---
+  - src: git@github.com:nikolay480/example-playbook.git
+    scm: git
+    version: "1.11.0"
+    name: java
